@@ -1,0 +1,35 @@
+p {
+    text-align: justify;
+}
+
+.class {
+    border: 3px double green;
+    background-color: green;
+    color: white;
+}
+
+figure{
+    background-color:whitesmoke;
+    justify-content:center;
+    text-align:center;
+}
+
+hr{
+  
+    border-width: 3px;
+    border-color: greenyellow;
+    background-color: greenyellow;
+    margin-top: 0px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+.funcione {
+    background-color: green;
+    border-top: 4px inset greenyellow;
+    text-align:center;
+    justify-content: row;
+    justify-items: row;
+}
